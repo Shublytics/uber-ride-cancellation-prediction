@@ -66,8 +66,5 @@ Three models were evaluated:
 - Include weather conditions
 - Consider special events impact
 
-## 📄 License
-[MIT License](LICENSE)
-
 ## 👥 Author
 Shubham Malhotra
