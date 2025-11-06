@@ -50,7 +50,7 @@ The dataset contains ride booking information including:
 | XGBoost              | 0.9560   | 0.9544  | 0.741                | 0.570            | 0.644              |
 
 
-![Random Forest Confusion Matrix Plot](images/RF_ConfMatrix.PNG)
+![Random Forest Confusion Matrix Plot](images/RF_ConfMatrix.png)
 
 ## 🔍 Key Findings
 
